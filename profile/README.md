@@ -37,7 +37,7 @@
 ✅ Оперативна підтримка 24/7  
 
 ## Контакти 📞📧🌍
-- 🌐 [Наш сайт](https://spaceof.supply)
+- 🌐 spaceof.supply
 - 📩 Email: office@spaceof.supply
 - 📍 Офіс: Київ, Україна
 
